@@ -1,0 +1,5 @@
+CREATE DATABASE IGHub;
+
+CREATE TABLE user(
+    
+)
